@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width: 1550px) {
+
+
+.karkas{
+	width:480px;
+}
+.head-navigation-left p{
+	font-size:14px;
+}
+.account{
+	margin-bottom:15px;
+}
+.account a{
+	margin-right:15px;
+	font-size:11px;
+}
+.account p{
+	font-size:11px;
+}
+.head-navigation-left{
+	width:100%;
+}
+.sett p{
+	display:none;
+}
+.sett{
+	background:url(images/settings.png) no-repeat top center;
+	width:19px;
+	height:19px;
+}
+.head-navigation-right{
+	margin-left:81px;
+	float:none;
+}
+.out{
+	float:none;
+}
+.out font{
+	display:none;
+}
+.head-navigation{
+	margin-bottom:40px;
+}
+.sum_text{
+	line-height:1;
+	font-size:14px;
+	padding-top:7px;
+}
+.sum{
+	padding-right:0;
+	font-size:32px;
+}
+.sum span{
+	font-size:32px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
